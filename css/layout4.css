@@ -1,0 +1,126 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'roboto' sans-serif;
+}
+img{}
+#slider{background-color: #343A40;padding-top: 15px;padding-bottom: 15px;margin-left: 40px;margin-right: 40px;margin-top: 40px;}
+.container{width: 1100px;margin: auto;overflow: hidden;/*! padding-top: 22px; */}
+.menu{}
+.list{width: 518px;margin: 0 auto;}
+.list ul{text-transform: uppercase;}
+.list ul li{float: left;list-style: none;}
+.list ul li a{text-decoration: none;padding: 6px 8px;color: #eee;font-size: 12px;text-align: center;}
+.list ul li a img{width: 96px;height: 25px;}
+
+
+/* flex part */
+
+#flex{
+	background: url(../image/mount-average.jpg) no-repeat;
+	background-size: cover;
+	background-position: center center;
+
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.layer{
+	display: flex;
+	background-color: rgba(4, 0, 28, .5);
+}
+.left{width: 50%;margin-left: 40px;padding-bottom: 56px;margin-bottom: 40px;overflow: hidden;}
+.left-content{padding-top: 205px;color: #eee;padding-left: 208px;}
+.left-content h1{font-size: 24px;text-transform: uppercase;}
+.left-content p{padding-bottom: 5px;}
+.left-menu{padding-left: 208px;}
+.left-list{}
+.left-list ul{}
+.left-list ul li{list-style: none;}
+.left-list ul li a{text-decoration: none;color: #eee;font-size: 17px;}
+.left-list ul li a i{padding-right: 5px;}
+.learn-more{padding-left: 208px;margin-top: 10px;}
+.learn-more input{background-color: #6EBD6C;border: none;padding: 10px 22px;border-radius: 50px;color: #eee;text-transform: uppercase;}
+
+/* RIGHT PART  */
+
+.right{width: 50%;margin-right: 40px;padding-bottom: 20px;margin-bottom: 40px;color: #eee;}
+.right-content{}
+.right-content h1{text-align: center;text-transform: uppercase;font-size: 24px;padding-bottom: 10px;}
+.right-content p{text-align: center;font-size: 17px;}
+.form{width: 295px;margin: 0 auto;padding-top: 35px;}
+.form-content{}
+.form-content input{margin: 3px 0;padding: 12px 0px;width: 100%;margin-bottom: 10px;}
+.submit {}
+.submit input{text-transform: uppercase;color: #eee;background-color: #529352;border: none;width: 100%;padding: 12px 0px;font-size: 20px;}
+.submit input:hover{
+	background-color: #343B72;
+	color: #eee;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'roboto' sans-serif;
+}
+img{}
+#slider{background-color: #343A40;padding-top: 15px;padding-bottom: 15px;margin-left: 40px;margin-right: 40px;margin-top: 40px;}
+.container{width: 1100px;margin: auto;overflow: hidden;/*! padding-top: 22px; */}
+.menu{}
+.list{width: 518px;margin: 0 auto;}
+.list ul{text-transform: uppercase;}
+.list ul li{float: left;list-style: none;}
+.list ul li a{text-decoration: none;padding: 6px 8px;color: #eee;font-size: 12px;text-align: center;}
+.list ul li a img{width: 96px;height: 25px;}
+
+
+/* flex part */
+
+#flex{
+	background: url(../image/mount-average.jpg) no-repeat;
+	background-size: cover;
+	background-position: center center;
+
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.layer{
+	display: flex;
+	background-color: rgba(40, 25, 24, .5);
+	margin-bottom: 40px;
+	padding-bottom: 80px;
+}
+.left{width: 50%;margin-left: 40px;padding-bottom: 56px;margin-bottom: 40px;overflow: hidden;}
+.left-content{padding-top: 150px;color: #eee;padding-left: 208px;}
+.left-content h1{font-size: 24px;text-transform: uppercase;}
+.left-content h1 span{
+	color: #6DBC6C;
+}
+.left-content p{padding-bottom: 5px;}
+.left-menu{padding-left: 208px;}
+.left-list{}
+.left-list ul{}
+.left-list ul li{list-style: none;}
+.left-list ul li a{text-decoration: none;color: #eee;font-size: 17px;}
+.left-list ul li a i{padding-right: 5px;font-size: 13px;}
+.learn-more{padding-left: 208px;margin-top: 10px;}
+.learn-more input{background-color: #6EBD6C;border: none;padding: 10px 22px;border-radius: 50px;color: #eee;text-transform: uppercase;}
+
+/* RIGHT PART  */
+
+.right{width: 50%;margin-right: 40px;padding-bottom: 20px;margin-bottom: 40px;color: #eee;}
+.right-content{width: 295px;margin: 0 auto;padding-top: 35px;}
+.right-content h1{text-align: center;text-transform: uppercase;font-size: 24px;padding-bottom: 2px;}
+.right-content p{text-align: center;font-size: 17px;}
+.form{width: 295px;margin: 0 auto;padding-top: 15px;}
+.form-content{}
+.form-content input{margin: 3px 0;padding: 12px 0px;width: 100%;margin-bottom: 3px;}
+.submit {margin-top: 3px;}
+.submit input{text-transform: uppercase;color: #eee;background-color: #529352;border: none;width: 100%;padding: 12px 0px;font-size: 20px;}
+.submit input:hover{
+	background-color: #343B72;
+	color: #eee;
+}
+.bgdcolor{width: 335px;background-color: #6EBD6C;padding-bottom: 29px;margin-left: 100px;margin-top: 150px;}
